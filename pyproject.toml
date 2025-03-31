@@ -1,0 +1,34 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "med-triage"
+version = "0.1.0"
+description = "A healthcare inbox triage application using LLMs"
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+authors = [
+    { name = "Your Name", email = "your.email@example.com" }
+]
+dependencies = [
+    "fastapi>=0.68.0",
+    "uvicorn>=0.15.0",
+    "pandas>=1.3.0",
+    "sqlalchemy>=1.4.0",
+    "python-dotenv>=0.19.0",
+    "openai>=1.0.0",
+    "plotly>=5.3.0",
+    "dash>=2.0.0",
+    "dash-bootstrap-components>=1.0.0",
+    "python-multipart>=0.0.5",
+    "pydantic>=1.8.0",
+    "jinja2>=3.0.0",
+]
+
+[project.scripts]
+med-triage = "med_triage.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["med_triage"] 

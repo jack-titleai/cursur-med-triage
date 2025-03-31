@@ -1,0 +1,54 @@
+message_id,subject,message,datetime
+56c1a788-9f2f-474d-a1d7-d208a15b44f7,Med refill please?,"“Hey doc, can u send over a refill for my allergy meds (loratadine)? Running low, thx!”",2025-03-29 01:47:28
+30704bf2-d4f6-4653-b733-274d4c97d94a,MRI Results Inquiry,"Dear Dr. Smith,
+I had my MRI last Thursday, and I’m wondering if you have received the results yet. I'm feeling anxious about the findings. Thank you for your attention.",2025-03-28 07:45:11
+87c56063-fe39-4c33-93dc-4c3d8f8a7527,New pain in my shoulder,"Good morning, Dr. Smith. I've been experiencing sharp pain in my left shoulder for the past three days, especially when lifting. Should I schedule an appointment or is there something else you recommend?",2025-03-29 12:27:45
+8ea29e52-5211-43a7-9b95-02bcdb11c930,follow-up appointment,dr smith i think i missed my follow-up apt can we reschedule it for sometime next week pls im available afternoons thanks,2025-03-29 06:46:04
+0963810e-d752-49f2-8153-94190c99683b,Request for blood test,"Dr. Smith, during my last appointment you mentioned we might need to check my cholesterol levels again. Could you please order that lab test at your convenience?",2025-03-29 02:37:50
+dfd60c6d-8e79-4a1c-a7e3-e26608b527bd,Insurance problem,"Hello, my insurance says they won't cover the inhaler you prescribed. Is there a generic alternative or another medication that's cheaper?",2025-03-29 05:54:03
+e12e96f0-c0b2-4bfb-b418-986c6e47377c,THANK YOU!!,"Dr. Smith, thanks so much for seeing me yesterday on short notice. I'm already feeling better after taking the antibiotics you prescribed. Really appreciate your help!",2025-03-28 15:44:19
+855d7a04-1f51-453a-b9da-d0034c37a3c4,Persistent headache concerns,"Hi Dr. Smith,
+I've been dealing with constant headaches lately. I tried ibuprofen but it's not helping much. Should I be worried? Any advice is appreciated.",2025-03-28 22:59:07
+5a5c1ccd-fa1b-4374-a053-670c8e931438,Appointment confirmation needed,"Hello Dr. Smith's office, could you confirm if my physical is scheduled for March 20th at 10:30am? I misplaced my reminder card. Regards, Marjorie L.",2025-03-29 00:00:14
+be0b764e-1e85-4439-9e5d-64e67b64d01e,Feeling weird after medication,"Hey Doc,
+Ever since I started the new medication for anxiety (Sertraline 50mg), I've felt dizzy and a bit nauseous. Is this normal or should I stop taking it?",2025-03-29 00:37:28
+8a1c54a2-0ea0-4ac9-ba44-a0b17104e97b,Severe allergic reaction,"Dr. Smith, I'm having trouble breathing after eating peanuts. Should I go to the ER immediately or can you help?",2025-03-28 20:06:47
+2c5a9a39-c5d9-443a-92bd-50fe530eb3e2,Weekend Office Hours,"Hi Dr. Smith, are you open on Saturdays? I need a routine check-up but weekdays are tough for me.",2025-03-28 22:36:21
+76cf8d79-cf74-41ac-9127-db45846bc7ce,Need Vaccine Record,Can you please send over my immunization records? My new employer needs them ASAP. Thanks.,2025-03-28 03:37:57
+3b6801f6-f001-4d9c-bbb1-41ed4bb4f414,Strange Rash,"Good afternoon, I've developed a red rash on my arms since yesterday. Not too itchy but spreading slightly. Is this something urgent?",2025-03-29 03:05:17
+c3100421-9044-4cba-b2ee-f2ea9276d5af,Prescription mix-up,"Hi, the pharmacy gave me the wrong dosage of my blood pressure medicine. It says 20mg instead of my usual 10mg. Can you confirm what's correct?",2025-03-28 07:47:32
+e4bcb06e-3a18-4d53-b653-077e387f9174,Medical Clearance for Sports,"Hey Dr. Smith, I just need medical clearance for my soccer team next month. Can I come by sometime soon for that?",2025-03-28 19:08:00
+fa39c7fc-07a8-40c4-a564-d70a5b257846,Chest Pain!!,"Doc, I'm having sharp chest pains and numbness in my left arm—should I head to the hospital now??",2025-03-27 17:36:23
+25ba9149-196e-4c2d-aff0-ca5b9a21d4d0,Blood Sugar Question,"Hello, my blood sugar levels have been slightly higher than usual this week, around 160. Should I adjust my insulin or wait?",2025-03-27 17:31:25
+e20b60fa-6d25-42e1-871d-6caa0e5151fa,Flu Shot Availability,"Dr. Smith, are flu shots available at your office yet? I'd like to schedule mine whenever possible.",2025-03-29 09:07:27
+db297d63-4e0a-4676-a0c9-820b8aec8ced,Anxiety Medication Question,"Good morning Dr. Smith, can we talk about possibly increasing my anxiety meds? Feeling more stressed lately.",2025-03-28 08:14:20
+8f5751bb-7752-43d8-a3ec-24d62e4aa5e1,Sudden dizziness,"Doctor Smith, I've had sudden dizziness and blurred vision twice today. Is this serious enough to come in right away?",2025-03-29 06:11:49
+8f4869b9-1566-4448-a1f5-2c7e644fe0bb,Dietary Advice Needed,"Hi, could you recommend a good diet for lowering cholesterol? Nothing urgent, just planning some lifestyle changes.",2025-03-29 02:36:30
+8974156f-bd95-46bd-8df9-7e91ee88f2b4,Requesting Annual Physical,"Hi, just looking to schedule my annual physical sometime in the next month or two. No rush.",2025-03-28 22:01:46
+1f433cbc-62a9-4784-956a-f66f660376df,Follow-up: Surgery Recovery,"Hello Dr. Smith, my surgical incision looks a bit swollen today. Should I be concerned or monitor it for now?",2025-03-29 09:07:54
+1fa25600-30d5-4861-9376-2f79e4da2ceb,Urgent Medication Side Effects,I'm having severe swelling in my face since starting lisinopril yesterday. Should I stop immediately or go to urgent care?,2025-03-29 03:01:18
+87575920-1dd9-4452-8756-e5861f5df606,Lab Results Clarification,"Dr. Smith, I reviewed my lab results online but don’t understand what 'elevated CRP' means. Could you explain?",2025-03-27 16:55:32
+2cf964c9-df6e-420c-99a2-7743973f6e5b,Can't sleep lately,"Hello, I've had trouble sleeping the past week or two. Can we discuss sleep medications or other solutions?",2025-03-28 12:04:37
+b1b76660-494b-47a8-b007-25c01fa3d502,Birth Control Refill,"Hi doc, can you approve my birth control refill soon? Not urgent, just need it before next Friday.",2025-03-27 20:41:51
+c6fb15c0-77d0-407e-a22b-8ac9ccea6a2b,Emergency: Severe abdominal pain,"Dr. Smith, experiencing severe lower-right abdominal pain since early morning, could barely walk. ER?",2025-03-27 16:31:56
+82419597-e99b-4ed9-90a3-8016c57a4f42,Insurance forms,"Hey Dr. Smith’s office, could you send me my insurance claim forms from last month? Need them for my records, whenever you have time.",2025-03-28 09:55:50
+8fb3e59a-3a4a-4f0a-93f9-b5686206f7f3,Blood Pressure Check,"Hey Dr. Smith, my BP readings have been slightly higher lately (145/90). Should I be concerned?",2025-03-28 21:05:44
+a859da11-57eb-4c8f-892d-a4dd34f34243,Persistent cough after flu,"Hi Dr. Smith, I had the flu two weeks ago, but my cough hasn't gone away. Do I need antibiotics?",2025-03-28 09:13:25
+a6065c4c-c38e-438c-a531-efb18d63efc9,Travel vaccination advice,"Hello, I'll be traveling to Brazil in a month. Can you advise me on any required vaccinations?",2025-03-29 06:19:30
+f7c00073-431a-455f-886c-d9e12aec9f8a,Insurance billing issue,"Dr. Smith, my insurance says you billed incorrectly for my last visit. Could your office check into this?",2025-03-28 11:24:49
+aca5ec89-a40c-4952-9793-8527f44fffb4,Shortness of breath during exercise,I've been unusually short of breath during exercise lately—is this something I should get checked out soon?,2025-03-28 12:43:17
+ab8d7d87-56dc-4fcf-8907-ef997bc6aeea,Annual screening reminder,"Just a reminder: should I be scheduling a colonoscopy this year, or is it next year? Thanks!",2025-03-28 05:15:58
+aa948282-9f96-4947-80cb-d1cf34efe487,Medication interaction question,Can I safely take ibuprofen while on my current blood thinner medication?,2025-03-29 00:20:12
+5e011487-97cd-4d81-b2c2-3fcb51edfc6c,Sudden Hearing Loss,"Dr. Smith, I woke up unable to hear clearly in my right ear. Is this urgent or can I wait a few days?",2025-03-28 08:14:29
+8cad00ff-6585-41cb-8417-039e1878487c,Skin spot concern,"Hello, noticed a new dark mole on my leg. Should I schedule an appointment or keep an eye on it for now?",2025-03-28 09:46:37
+56324c92-6adf-4d68-88f1-0032dc4c1cd4,Flu symptoms,"Hey doc, pretty sure I've got the flu—fever, chills, body aches. Should I come in, or just rest at home?",2025-03-27 14:23:37
+681046e0-0e9e-41cc-a38f-77bc29813bd4,Anxiety prescription renewal,"Dr. Smith, my anxiety prescription (Xanax) is almost out. Could you please renew it when possible?",2025-03-28 20:54:37
+7e27a375-406a-48d2-b653-598c44a47a38,Trouble swallowing medication,I have trouble swallowing large pills. Is there a liquid form of my current prescription available?,2025-03-28 05:06:42
+e1b1e486-854b-4911-8d7b-1cef3b081ca9,Sudden weight loss,I've lost about 15 lbs in the last month without trying. Should I be concerned enough to schedule a visit?,2025-03-28 21:42:45
+f1ab08ba-a6f1-476d-8fd6-0d329538a283,Minor cut not healing,"Doc, I cut my finger last week, and it's not healing well. Should I come in to have it checked?",2025-03-27 21:53:53
+fc50b95c-17a7-4736-ac68-9258a46ec9cb,Request for Telehealth Visit,Can we do a telehealth visit for my routine diabetes check-up next week instead of coming into the office?,2025-03-27 20:12:58
+d2866c53-1cca-4352-b45a-5778e7f1993b,Confusion over dosage,My pharmacist says my dosage instructions for prednisone changed—could you confirm the right dose?,2025-03-28 02:04:00
+cdcce7c4-2f2f-4fb2-a078-2dbecfa3b01c,Fever in elderly parent,"Dr. Smith, my mother (82 yrs) has a 102°F fever today. Should I bring her in or take her directly to urgent care?",2025-03-29 04:18:27
+e2d31176-6be1-44b0-aaf4-418dba73587b,Need copy of test results,Could you email me the results of my recent bloodwork? Just for my records. No rush.,2025-03-28 10:07:51
+5cb0e543-a5e4-4957-a2d6-ec25137d4b36,"Severe migraine, medication ineffective",My usual migraine meds aren't working and the pain is unbearable. What should I do next?,2025-03-28 20:52:18
+be9da386-3aef-4393-80ee-3a99178a211d,Missed appointment apology,Apologies for missing my appointment yesterday. Can I reschedule for later this week?,2025-03-28 13:52:57
